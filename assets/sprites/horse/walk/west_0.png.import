@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dmkwbplv2fpi3"
-path="res://.godot/imported/south_east.png-19de0162d1780af682ed9fc3d2c4e91b.ctex"
+uid="uid://blsldce8qigsk"
+path="res://.godot/imported/west_0.png-89a7b6dfcf6fbfb9bc1f2f3ac63ddbfc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/horse/south_east.png"
-dest_files=["res://.godot/imported/south_east.png-19de0162d1780af682ed9fc3d2c4e91b.ctex"]
+source_file="res://assets/sprites/horse/walk/west_0.png"
+dest_files=["res://.godot/imported/west_0.png-89a7b6dfcf6fbfb9bc1f2f3ac63ddbfc.ctex"]
 
 [params]
 

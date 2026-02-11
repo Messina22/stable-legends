@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bnlbn1d1kgj2w"
-path="res://.godot/imported/north.png-ee3ad19b0e0db0d4af298e5438c37ada.ctex"
+uid="uid://b3px8jbxub2hr"
+path="res://.godot/imported/north_east_0.png-a5295615eff940ebd56f8aa558854742.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/horse/north.png"
-dest_files=["res://.godot/imported/north.png-ee3ad19b0e0db0d4af298e5438c37ada.ctex"]
+source_file="res://assets/sprites/horse/walk/north_east_0.png"
+dest_files=["res://.godot/imported/north_east_0.png-a5295615eff940ebd56f8aa558854742.ctex"]
 
 [params]
 
